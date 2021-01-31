@@ -1,1 +1,1 @@
-# ai_ethics_scholarship
+# AI Ethics Scholarship Analysis
